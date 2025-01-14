@@ -1,4 +1,10 @@
-![Wenhuwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=wenhuwang&show_icons=true&theme=radical)
+<!--## Hi there 👋-->
+![暗色](https://raw.githubusercontent.com/wenhuwang/wenhuwang/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=wenhuwang&theme=tokyonight" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wenhuwang&layout=compact&langs_count=8&hide=css,javascript,html&theme=github_dark" />
+<span>&emsp;&emsp;</span>
+</div>
 
 
 ### Hi there 👋
